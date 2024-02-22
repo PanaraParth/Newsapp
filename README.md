@@ -1,4 +1,3 @@
-# Newsapp
+# NewsApp
 
 News App
-asdas
